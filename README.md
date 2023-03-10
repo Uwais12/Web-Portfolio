@@ -1,4 +1,5 @@
 # Web Development Portfolio
+Deployed at https://uwais12.github.io/react-gh-pages2/index.html
 
 Apple OS Style Web Development Portfolio
 
@@ -12,4 +13,3 @@ Developed using React. Experience section is  directly fetched from LinkedIn
 
 
 
-Deployed at https://uwais12.github.io/react-gh-pages2/index.html
