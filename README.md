@@ -2,7 +2,7 @@
 
 Apple OS Style Web Development Portfolio
 
-Developed using React. Experience sections is  directly fetched from LinkedIn
+Developed using React. Experience section is  directly fetched from LinkedIn
 
 ### Desktop View
 <img width="537.5" alt="image" src="https://user-images.githubusercontent.com/66651633/224315355-c244ae47-42e7-43a0-8974-d72fc7c03ccf.png">
